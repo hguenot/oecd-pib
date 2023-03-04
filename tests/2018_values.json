@@ -1,0 +1,1312 @@
+[
+    {
+        "LOCATION": "ALB",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "38690.695",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "ALB",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "13498.122566",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "ARG",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "1036307.018",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "ARG",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "23290.675736",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "AUS",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "1323863.624",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "AUS",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "52991.2149",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "AUT",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "503361.417",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "AUT",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "56956.110562",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "BEL",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "600269.926",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "BEL",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "52530.84151",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "BGR",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "161687.529",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "BGR",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "23015.898745",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "BRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "3145953.19",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "BRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "15088.873591",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "CAN",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "1852987.755",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "CAN",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "49992.811418",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "CHE",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "601868.008",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "CHE",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "70688.84449",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "CHL",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "478093.911",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "CHL",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "25496.431399",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "CHN",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "21736534.82",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "CHN",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "15466.329982",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "CMR",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "95835.08",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "CMR",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "3800.566288",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "COL",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "747103.675",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "COL",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "15814.696386",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "CRI",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "106583.345",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "CRI",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "21312.71338",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "CYP",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "35289.18",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "CYP",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "40559.105442",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "CZE",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "437355.916",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "CZE",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "41157.370409",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "DEU",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "4576056.532",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "DEU",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "55195.722049",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "DNK",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "333035.355",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "DNK",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "57479.350221",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "EA19",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "16259655.284",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "EA19",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "47629.160516",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "ESP",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "1905450.021",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "ESP",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "40776.768298",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "EST",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "48133.366",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "EST",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "36488.637421",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "EU27_2020",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "19958432.341",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "EU27_2020",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "44673.301124",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FIN",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "273455.993",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FIN",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "49573.255773",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "3125379.86",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "46336.933985",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "GBR",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "3137072.362",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "GBR",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "47219.464771",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "GEO",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "54384.905",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "GEO",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "14593.90772",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "GRC",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "317881.481",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "GRC",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "29617.499309",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "HKG",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "465891.503",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "HKG",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "62510.600169",
+        "Flag Codes": "E"
+    },
+    {
+        "LOCATION": "HRV",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "118176.489",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "HRV",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "28887.862246",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "HUN",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "311925.167",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "HUN",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "31908.661917",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "IDN",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "3116594.552",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "IND",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "9015546.032",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "IND",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "6793.930695",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "IRL",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "412301.576",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "IRL",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "84824.352993",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "ISL",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "20177.371",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "ISL",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "57208.31151",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "ISR",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "357372.009",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "ISR",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "40247.088382",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "ITA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "2600326.872",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "ITA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "43427.663143",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "JPN",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "5344060.937",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "JPN",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "42264.585123",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "KOR",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "2220442.286",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "KOR",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "43044.340145",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "LTU",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "101910.429",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "LTU",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "36376.535744",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "LUX",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "70825.278",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "LUX",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "116334.724739",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "LVA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "59505.492",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "LVA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "30891.884185",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "MAR",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "279042.501",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "MAR",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "7923.067137",
+        "Flag Codes": "E"
+    },
+    {
+        "LOCATION": "MDG",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "43633.375",
+        "Flag Codes": "E"
+    },
+    {
+        "LOCATION": "MDG",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "1661.464269",
+        "Flag Codes": "E"
+    },
+    {
+        "LOCATION": "MEX",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "2535949.668",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "MEX",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "20561.246895",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "MKD",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "34872.76",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "MKD",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "16796.298138",
+        "Flag Codes": "E"
+    },
+    {
+        "LOCATION": "MLT",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "22080.012",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "MLT",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "45504.312819",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "NLD",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "996447.288",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "NLD",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "57825.399708",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "NOR",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "370815.982",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "NOR",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "69807.225536",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "NZL",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "208377.269",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "NZL",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "42334.17358",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "OECD",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "61185479.203",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "OECD",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "45194.277527",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "OECDE",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "25477586.724",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "OECDE",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "44168.184232",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "POL",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "1216240.494",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "POL",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "31662.210541",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "PRT",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "359198.932",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "PRT",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "34928.61899",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "ROU",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "571405.832",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "ROU",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "29337.903177",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "RUS",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "4231840.387",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "RUS",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "28821.242897",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "SAU",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "1643610.545",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "SAU",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "49189.778812",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "SEN",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "53722.712",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "SEN",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "3416.171427",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "SGP",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "566206.118",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "SGP",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "100408.958643",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "SRB",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "123717.018",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "SRB",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "17717.89125",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "SVK",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "170864.165",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "SVK",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "31374.187996",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "SVN",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "80823.475",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "SVN",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "39008.297051",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "SWE",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "544594.071",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "SWE",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "53521.635778",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "TUR",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "2302309.895",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "TUR",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "28281.473275",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "USA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "20533058",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "USA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "62449.612827",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "ZAF",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "746947.775",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "ZAF",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "13191.637554",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "ZMB",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "62564.66",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "ZMB",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "3507.79523",
+        "Flag Codes": ""
+    }
+]

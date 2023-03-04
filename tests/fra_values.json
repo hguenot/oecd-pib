@@ -1,0 +1,1242 @@
+[
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2021",
+        "Value": "3478994.226",
+        "Flag Codes": "P"
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2021",
+        "Value": "50998.933198",
+        "Flag Codes": "P"
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2020",
+        "Value": "3252217.827",
+        "Flag Codes": "P"
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2020",
+        "Value": "47823.919578",
+        "Flag Codes": "P"
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2019",
+        "Value": "3403142.968",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2019",
+        "Value": "50221.997111",
+        "Flag Codes": "P"
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "3125379.86",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2018",
+        "Value": "46336.933985",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2017",
+        "Value": "2983010.673",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2017",
+        "Value": "44445.59677",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2016",
+        "Value": "2864105.631",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2016",
+        "Value": "42855.944562",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2015",
+        "Value": "2718495.127",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2015",
+        "Value": "40829.893311",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2014",
+        "Value": "2662032.873",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2014",
+        "Value": "40144.059485",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2013",
+        "Value": "2608523.504",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2013",
+        "Value": "39528.473644",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2012",
+        "Value": "2474005.287",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2012",
+        "Value": "37684.198067",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2011",
+        "Value": "2446474.544",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2011",
+        "Value": "37447.949543",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2010",
+        "Value": "2334643.567",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2010",
+        "Value": "35911.516006",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2009",
+        "Value": "2244035.354",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2009",
+        "Value": "34687.988525",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2008",
+        "Value": "2259255.844",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2008",
+        "Value": "35102.870428",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2007",
+        "Value": "2184560.779",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2007",
+        "Value": "34132.16223",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2006",
+        "Value": "2065393.542",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2006",
+        "Value": "32470.146387",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2005",
+        "Value": "1926880.385",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2005",
+        "Value": "30504.058784",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2004",
+        "Value": "1822242.907",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2004",
+        "Value": "29065.203082",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2003",
+        "Value": "1753680.985",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2003",
+        "Value": "28178.372054",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2002",
+        "Value": "1762925.935",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2002",
+        "Value": "28528.156107",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2001",
+        "Value": "1686983.546",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2001",
+        "Value": "27498.590759",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "2000",
+        "Value": "1589463.355",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "2000",
+        "Value": "26098.276856",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1999",
+        "Value": "1470523.886",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1999",
+        "Value": "24311.403864",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1998",
+        "Value": "1405982.072",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1998",
+        "Value": "23364.49867",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1997",
+        "Value": "1333868.855",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1997",
+        "Value": "22247.833457",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1996",
+        "Value": "1276280.703",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1996",
+        "Value": "21363.206843",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1995",
+        "Value": "1237219.57",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1995",
+        "Value": "20783.127334",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1994",
+        "Value": "1186806.737",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1994",
+        "Value": "20008.543156",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1993",
+        "Value": "1135220.853",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1993",
+        "Value": "19210.099893",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1992",
+        "Value": "1115950.951",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1992",
+        "Value": "18966.178062",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1991",
+        "Value": "1073910.552",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1991",
+        "Value": "18342.395169",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1990",
+        "Value": "1028006.134",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1990",
+        "Value": "17646.35633",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1989",
+        "Value": "962762.441",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1989",
+        "Value": "16617.115561",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1988",
+        "Value": "887874.629",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1988",
+        "Value": "15416.095929",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1987",
+        "Value": "818786.455",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1987",
+        "Value": "14298.699945",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1986",
+        "Value": "779069.036",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1986",
+        "Value": "13679.157136",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1985",
+        "Value": "746247.233",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1985",
+        "Value": "13169.920988",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1984",
+        "Value": "711819.74",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1984",
+        "Value": "12625.170543",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1983",
+        "Value": "676788.89",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1983",
+        "Value": "12062.467958",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1982",
+        "Value": "643297.206",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1982",
+        "Value": "11527.59083",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1981",
+        "Value": "591056.908",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1981",
+        "Value": "10655.433717",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1980",
+        "Value": "534253.405",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1980",
+        "Value": "9686.049008",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1979",
+        "Value": "482376.545",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1979",
+        "Value": "8790.781356",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1978",
+        "Value": "430151.53",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1978",
+        "Value": "7873.330348",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1977",
+        "Value": "386506.385",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1977",
+        "Value": "7105.549872",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1976",
+        "Value": "351711.779",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1976",
+        "Value": "6495.258997",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1975",
+        "Value": "319447.819",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1975",
+        "Value": "5923.159142",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1974",
+        "Value": "295200.589",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1974",
+        "Value": "5499.060939",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1973",
+        "Value": "259661.644",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1973",
+        "Value": "4868.686251",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1972",
+        "Value": "231484.97",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1972",
+        "Value": "4375.318384",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1971",
+        "Value": "212314.768",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1971",
+        "Value": "4048.79513",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1970",
+        "Value": "191870.238",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1970",
+        "Value": "3693.790203",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1969",
+        "Value": "179129.265",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1969",
+        "Value": "3480.062658",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1968",
+        "Value": "157794.703",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1968",
+        "Value": "3090.801782",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1967",
+        "Value": "143803.056",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1967",
+        "Value": "2838.087508",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1966",
+        "Value": "133414.117",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1966",
+        "Value": "2654.479048",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1965",
+        "Value": "122389.747",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1965",
+        "Value": "2456.145844",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1964",
+        "Value": "113249.46",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1964",
+        "Value": "2294.496424",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1963",
+        "Value": "104468.637",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1963",
+        "Value": "2138.997489",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1962",
+        "Value": "97734.662",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1962",
+        "Value": "2036.181205",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1961",
+        "Value": "89236.064",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1961",
+        "Value": "1892.960772",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "MLN_USD",
+        "FREQUENCY": "A",
+        "TIME": "1960",
+        "Value": "84286.645",
+        "Flag Codes": ""
+    },
+    {
+        "LOCATION": "FRA",
+        "INDICATOR": "GDP",
+        "SUBJECT": "TOT",
+        "MEASURE": "USD_CAP",
+        "FREQUENCY": "A",
+        "TIME": "1960",
+        "Value": "1807.175059",
+        "Flag Codes": ""
+    }
+]

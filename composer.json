@@ -1,0 +1,22 @@
+{
+    "name": "hguenot/oecd-pib",
+    "description": "Wrapper for PIB csv from https://data.oecd.org/fr/gdp/produit-interieur-brut-pib.htm",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "data\\oecd\\pib\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require-dev": {
+        "psy/psysh": "@stable",
+        "phpunit/phpunit": "10.1.x-dev"
+    },
+    "config": {
+
+    },
+    "require": {
+        "league/csv": "^9.0",
+        "hguenot/phpstream": "^3.0.0"
+    }
+}
