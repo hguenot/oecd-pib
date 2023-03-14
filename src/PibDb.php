@@ -53,22 +53,25 @@ class PibDb {
 				->toArray();
 	}
 
-	public function getValuesForCountry(string $country): iterable {
+	public function getValuesForCountry(string $country, string $measure = 'USD_CAP'): iterable {
 		return Stream::of($this->reader->getIterator())
+				->filter(fn($a1) => $a1['MEASURE'] == $measure)
 				->filter(fn($a) => strtolower($a['LOCATION']) === strtolower($country))
 				->sort(fn($a1, $a2) => $a2['TIME'] <=> $a1['TIME'])
 				->toIterable();
 	}
 
-	public function getValuesForYear(int $year): iterable {
+	public function getValuesForYear(int $year, string $measure = 'USD_CAP'): iterable {
 		return Stream::of($this->reader->getIterator())
 				->filter(fn($a) => intval($a['TIME']) === $year)
+				->filter(fn($a1) => $a1['MEASURE'] == $measure)
 				->sort(fn($a1, $a2) => $a1['LOCATION'] <=> $a2['LOCATION'])
 				->toIterable();
 	}
 
-	public function getLatestValues(): iterable {
+	public function getLatestValues(string $measure = 'USD_CAP'): iterable {
 		$latest = Stream::of($this->reader->getIterator())
+				->filter(fn($a1) => $a1['MEASURE'] == $measure)
 				->sort(fn($a1, $a2) => $a1['LOCATION'] == $a2['LOCATION']
 				 ? intval($a1['TIME']) <=> intval($a2['TIME'])
 				 : $a1['LOCATION'] <=> $a2['LOCATION'])

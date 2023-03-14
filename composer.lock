@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "391bb881d41a3bba1bf27a773c50474f",
+    "content-hash": "8b210055e459a8df1da11bfdd4fbdf62",
     "packages": [
         {
             "name": "bentools/iterable-functions",
@@ -50,16 +50,16 @@
         },
         {
             "name": "hguenot/phpstream",
-            "version": "dev-master",
+            "version": "V3.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/hguenot/phpstream.git",
-                "reference": "e420ae1cba7424fd14c858ae4b716189383cb952"
+                "reference": "50828489b2823e9dba75ff4031de7664215b0bb6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hguenot/phpstream/zipball/e420ae1cba7424fd14c858ae4b716189383cb952",
-                "reference": "e420ae1cba7424fd14c858ae4b716189383cb952",
+                "url": "https://api.github.com/repos/hguenot/phpstream/zipball/50828489b2823e9dba75ff4031de7664215b0bb6",
+                "reference": "50828489b2823e9dba75ff4031de7664215b0bb6",
                 "shasum": ""
             },
             "require": {
@@ -69,7 +69,6 @@
             "require-dev": {
                 "phpunit/phpunit": ">=9"
             },
-            "default-branch": true,
             "type": "library",
             "autoload": {
                 "psr-4": {
@@ -93,9 +92,9 @@
             ],
             "support": {
                 "issues": "https://github.com/hguenot/phpstream/issues",
-                "source": "https://github.com/hguenot/phpstream/tree/3.0.0"
+                "source": "https://github.com/hguenot/phpstream/tree/V3.0.0"
             },
-            "time": "2021-03-07T07:40:46+00:00"
+            "time": "2021-03-07T06:54:41+00:00"
         },
         {
             "name": "league/csv",
@@ -429,12 +428,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/php-code-coverage.git",
-                "reference": "475547d27ebcc9d38dc5e711f4148425e2d5cfdb"
+                "reference": "117fa1985415b5ad5ade120e671731840b91aacc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/475547d27ebcc9d38dc5e711f4148425e2d5cfdb",
-                "reference": "475547d27ebcc9d38dc5e711f4148425e2d5cfdb",
+                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/117fa1985415b5ad5ade120e671731840b91aacc",
+                "reference": "117fa1985415b5ad5ade120e671731840b91aacc",
                 "shasum": ""
             },
             "require": {
@@ -456,8 +455,8 @@
                 "phpunit/phpunit": "^10.1"
             },
             "suggest": {
-                "ext-pcov": "*",
-                "ext-xdebug": "*"
+                "ext-pcov": "PHP extension that provides line coverage",
+                "ext-xdebug": "PHP extension that provides line coverage as well as branch and path coverage"
             },
             "default-branch": true,
             "type": "library",
@@ -499,7 +498,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-02-27T12:51:59+00:00"
+            "time": "2023-03-04T06:03:24+00:00"
         },
         {
             "name": "phpunit/php-file-iterator",
@@ -752,12 +751,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "9583b6561c74b5cc0e9345e0eef989fe02eb2445"
+                "reference": "b342c74df11eb711790345e5739ad32d25753cc5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/9583b6561c74b5cc0e9345e0eef989fe02eb2445",
-                "reference": "9583b6561c74b5cc0e9345e0eef989fe02eb2445",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/b342c74df11eb711790345e5739ad32d25753cc5",
+                "reference": "b342c74df11eb711790345e5739ad32d25753cc5",
                 "shasum": ""
             },
             "require": {
@@ -789,7 +788,7 @@
                 "sebastian/version": "^4.0"
             },
             "suggest": {
-                "ext-soap": "*"
+                "ext-soap": "To be able to generate mocks based on WSDL files"
             },
             "default-branch": true,
             "bin": [
@@ -845,7 +844,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-03-03T14:00:58+00:00"
+            "time": "2023-03-04T06:07:23+00:00"
         },
         {
             "name": "psr/container",
@@ -1906,12 +1905,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/console.git",
-                "reference": "1090bd292e4de35682f80e94d196c62aab4b3ad7"
+                "reference": "138fa49967e8196dc0a91d5f333d07ed76248ae3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/console/zipball/1090bd292e4de35682f80e94d196c62aab4b3ad7",
-                "reference": "1090bd292e4de35682f80e94d196c62aab4b3ad7",
+                "url": "https://api.github.com/repos/symfony/console/zipball/138fa49967e8196dc0a91d5f333d07ed76248ae3",
+                "reference": "138fa49967e8196dc0a91d5f333d07ed76248ae3",
                 "shasum": ""
             },
             "require": {
@@ -1994,7 +1993,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-02-25T17:00:13+00:00"
+            "time": "2023-03-03T15:47:02+00:00"
         },
         {
             "name": "symfony/deprecation-contracts",
@@ -2712,7 +2711,6 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
-        "hguenot/phpstream": 20,
         "psy/psysh": 0,
         "phpunit/phpunit": 20
     },

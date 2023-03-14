@@ -31,9 +31,11 @@ Use the `getInstance` method to get the instance.
 The last methods returns an iterable. Each value is an associative array : 
 
 - `LOCATION`: Country code
-- `INDICATOR`: Always "`GDP`" (Gross Domestic Product - PIB)
+- `INDICATOR`: Always "`GDP`"
 - `SUBJECT`: always "`TOT`"
-- `MEASURE`: always "`USD_CAP`" (USD per Capita)
+- `MEASURE`: 
+  - "`USD_CAP`" (USD per Capita)
+  - "`MLN_USD`" (Million USD)
 - `FREQUENCY`: always "`A`"
 - `TIME`: the year
 - `Value`: The PIB value
